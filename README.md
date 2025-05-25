@@ -28,7 +28,7 @@ I also enjoy documenting my learning journey on my personal blog sharing tutoria
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agengdema/agengdema/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agengdema/agengdema/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agengdema/agengdema/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agengdemasetiady/agengdemasetiady/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agengdemasetiady/agengdemasetiady/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agengdemasetiady/agengdemasetiady/output/pacman-contribution-graph.svg">
 </picture>
