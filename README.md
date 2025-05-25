@@ -23,11 +23,7 @@ I also enjoy documenting my learning journey on my personal blog sharing tutoria
 
 ###
 
-<div align="center">
-  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hv5owurwbrcsjomjk5xjbjl4qy)" alt="Spotify recently played"  />
-</div>
-
-<img src="https://i.gifer.com/17eq.gif" width="400"/>
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31hv5owurwbrcsjomjk5xjbjl4qy&300=600) <img src="https://i.gifer.com/17eq.gif" width="400"/>
 
 ###
 
