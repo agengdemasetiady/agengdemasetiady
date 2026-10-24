@@ -22,18 +22,15 @@ Informatics student with a networking background. I'm familiar with **Linux** an
 ## 🛠️ Tech & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## 🎯 Goals
 
 - [ ] Publish my first Python project
-- [ ] Try a simple ML-based anomaly or threat detection project
-- [ ] Build a simple PHP web app
+- [ ] Learn the fundamentals of Machine Learning and Deep Learning
+- [ ] Build a Computer Vision project
 
 
 ## 💻 Currently Learning
